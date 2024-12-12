@@ -6,9 +6,9 @@ This repository contains 2 Python scripts developed for predictive modeling task
 - MOCBoost_bonus.py was used to implement bonus task prediction. 
 
 The scripts contain:
-    1. Preprocessing steps to obtain input Training and Test data
-    2. Modelling steps to train a MultiOutputRegressor with CatBoost as internal estimator
-    3. Prediction steps on validation data
+1. Preprocessing steps to obtain input Training and Test data
+2. Modelling steps to train a MultiOutputRegressor with CatBoost as internal estimator
+3. Prediction steps on validation data
     
 
 ## Repository contents:
